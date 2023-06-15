@@ -4,7 +4,7 @@ import { TipoDocumento } from "../enumeracoes/TipoDocumento";
 import MenuEditarCliente from "../menus/menuEditarCliente";
 import Cliente from "../modelos/cliente";
 import CadastrarDocumentosCliente from "./cadastrarDocumentosCliente";
-import CadastroClienteTelefone from "./CadastroClienteTelefone";
+import CadastroClienteTelefone from "./cadastroClienteTelefone";
 import EditarDataDeNascimento from "./Editar/editarDataDeNascimento";
 import EditarDocumento from "./Editar/editarDocumento";
 import EditarEndereco from "./Editar/editarEndereco";
